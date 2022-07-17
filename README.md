@@ -1,1 +1,34 @@
-![Metrics](https://metrics.lecoq.io/uvanov?template=classic&languages=1&activity=1&repositories=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FChisinau)
+## Kirill Ivanov { Frontend Developer }
+### 
+###
+// What technologies i use in working process.
+```js
+{
+   working_stack: {
+	  react: true,
+	  redux: true,
+	  typescript: true,
+	  styledComponents: true,
+	  nextjs: true,
+	  scss: true,
+   }
+}
+```
+
+
+### 
+###
+// Projects you can see
+
+```js
+{
+   projects: {
+      reactPhonebook: 'https://github.com/uvanov/react-phonebook',
+      twoFactor: 'https://github.com/uvanov/2fa-panel'
+   }
+}
+```
+
+## \<Contacts />
+
+linkedin: <a href="linkedin.com/in/uvanov">linkedin.com/in/uvanov</a>
