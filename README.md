@@ -5,12 +5,12 @@
 ```js
 {
    working_stack: {
-	  react: true,
-	  redux: true,
-	  typescript: true,
-	  styledComponents: true,
-	  nextjs: true,
-	  scss: true,
+      react: true,
+      redux: true,
+      typescript: true,
+      styledComponents: true,
+      nextjs: true,
+      scss: true,
    }
 }
 ```
