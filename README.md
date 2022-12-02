@@ -16,19 +16,6 @@
 ```
 
 
-### 
-###
-// Projects you can see
-
-```js
-{
-   projects: {
-      reactPhonebook: 'https://github.com/uvanov/react-phonebook',
-      twoFactor: 'https://github.com/uvanov/2fa-panel'
-   }
-}
-```
-
 ## \<Contacts />
 
 linkedin: <a href="linkedin.com/in/uvanov">linkedin.com/in/uvanov</a>
