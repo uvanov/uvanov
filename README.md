@@ -1,3 +1,1 @@
-1. Frontend Developer
-2. Love interfaces
-3. React is best 
+Hey! Since I was 14 I'm doing programming. I tried C++, Python, C#, and now...I'm a Frontend Developer....
